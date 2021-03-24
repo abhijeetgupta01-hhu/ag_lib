@@ -14,4 +14,4 @@ git add .
 git commit -am "$1"
 
 # Repository is pushed into the master repository
-git push origin master
+git push origin main
