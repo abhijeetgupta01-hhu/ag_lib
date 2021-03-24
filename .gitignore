@@ -1,6 +1,8 @@
 # Folders
 #ref-docs/
 #template/
+
+# Egg module files
 *.egg-info/
 *egg*
 
