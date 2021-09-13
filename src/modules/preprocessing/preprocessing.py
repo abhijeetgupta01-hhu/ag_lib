@@ -20,11 +20,9 @@ from collections import defaultdict
 
 # >>>>>>>>> Local Imports <<<<<<<<<<
 from modules.data_ops.io import IO
-<<<<<<< HEAD
-# Test
-# Test 1
+# From a02
+
 =======
->>>>>>> 68abad5b69040f0f3fbd2bc788a01b4847163379
 ###############################################################################################################
 #
 #  ACTUAL CODE
