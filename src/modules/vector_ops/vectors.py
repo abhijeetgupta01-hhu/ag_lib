@@ -22,7 +22,6 @@ from sklearn.decomposition import PCA
 
 # >>>>>>>>> Local Imports <<<<<<<<<<
 from modules.data_ops.io import IO
-from modules.data_ops.atisnlu_data_reader import AtisnluDataReader
 
 ###############################################################################################################
 #
