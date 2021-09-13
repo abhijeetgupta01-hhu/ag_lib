@@ -21,7 +21,6 @@ from sklearn.preprocessing import normalize, MinMaxScaler
 
 # >>>>>>>>> Local Imports <<<<<<<<<<
 from modules.data_ops.io import IO
-from modules.data_ops.atisnlu_data_reader import AtisnluDataReader
 from modules.vector_ops.vectors import VectorOps
 
 ###############################################################################################################
